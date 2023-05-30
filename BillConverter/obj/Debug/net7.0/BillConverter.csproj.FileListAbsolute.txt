@@ -1,0 +1,15 @@
+/Users/zekikaya/repos/kaizen_interview/KaizentechInterView/BillConverter/bin/Debug/net7.0/BillConverter
+/Users/zekikaya/repos/kaizen_interview/KaizentechInterView/BillConverter/bin/Debug/net7.0/BillConverter.deps.json
+/Users/zekikaya/repos/kaizen_interview/KaizentechInterView/BillConverter/bin/Debug/net7.0/BillConverter.runtimeconfig.json
+/Users/zekikaya/repos/kaizen_interview/KaizentechInterView/BillConverter/bin/Debug/net7.0/BillConverter.dll
+/Users/zekikaya/repos/kaizen_interview/KaizentechInterView/BillConverter/bin/Debug/net7.0/BillConverter.pdb
+/Users/zekikaya/repos/kaizen_interview/KaizentechInterView/BillConverter/obj/Debug/net7.0/BillConverter.csproj.AssemblyReference.cache
+/Users/zekikaya/repos/kaizen_interview/KaizentechInterView/BillConverter/obj/Debug/net7.0/BillConverter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zekikaya/repos/kaizen_interview/KaizentechInterView/BillConverter/obj/Debug/net7.0/BillConverter.AssemblyInfoInputs.cache
+/Users/zekikaya/repos/kaizen_interview/KaizentechInterView/BillConverter/obj/Debug/net7.0/BillConverter.AssemblyInfo.cs
+/Users/zekikaya/repos/kaizen_interview/KaizentechInterView/BillConverter/obj/Debug/net7.0/BillConverter.csproj.CoreCompileInputs.cache
+/Users/zekikaya/repos/kaizen_interview/KaizentechInterView/BillConverter/obj/Debug/net7.0/BillConverter.dll
+/Users/zekikaya/repos/kaizen_interview/KaizentechInterView/BillConverter/obj/Debug/net7.0/refint/BillConverter.dll
+/Users/zekikaya/repos/kaizen_interview/KaizentechInterView/BillConverter/obj/Debug/net7.0/BillConverter.pdb
+/Users/zekikaya/repos/kaizen_interview/KaizentechInterView/BillConverter/obj/Debug/net7.0/BillConverter.genruntimeconfig.cache
+/Users/zekikaya/repos/kaizen_interview/KaizentechInterView/BillConverter/obj/Debug/net7.0/ref/BillConverter.dll

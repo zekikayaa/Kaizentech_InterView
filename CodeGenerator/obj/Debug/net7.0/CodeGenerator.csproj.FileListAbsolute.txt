@@ -1,0 +1,15 @@
+/Users/zekikaya/repos/kaizen_interview/KaizentechInterView/CodeGenerator/bin/Debug/net7.0/CodeGenerator
+/Users/zekikaya/repos/kaizen_interview/KaizentechInterView/CodeGenerator/bin/Debug/net7.0/CodeGenerator.deps.json
+/Users/zekikaya/repos/kaizen_interview/KaizentechInterView/CodeGenerator/bin/Debug/net7.0/CodeGenerator.runtimeconfig.json
+/Users/zekikaya/repos/kaizen_interview/KaizentechInterView/CodeGenerator/bin/Debug/net7.0/CodeGenerator.dll
+/Users/zekikaya/repos/kaizen_interview/KaizentechInterView/CodeGenerator/bin/Debug/net7.0/CodeGenerator.pdb
+/Users/zekikaya/repos/kaizen_interview/KaizentechInterView/CodeGenerator/obj/Debug/net7.0/CodeGenerator.csproj.AssemblyReference.cache
+/Users/zekikaya/repos/kaizen_interview/KaizentechInterView/CodeGenerator/obj/Debug/net7.0/CodeGenerator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zekikaya/repos/kaizen_interview/KaizentechInterView/CodeGenerator/obj/Debug/net7.0/CodeGenerator.AssemblyInfoInputs.cache
+/Users/zekikaya/repos/kaizen_interview/KaizentechInterView/CodeGenerator/obj/Debug/net7.0/CodeGenerator.AssemblyInfo.cs
+/Users/zekikaya/repos/kaizen_interview/KaizentechInterView/CodeGenerator/obj/Debug/net7.0/CodeGenerator.csproj.CoreCompileInputs.cache
+/Users/zekikaya/repos/kaizen_interview/KaizentechInterView/CodeGenerator/obj/Debug/net7.0/CodeGenerator.dll
+/Users/zekikaya/repos/kaizen_interview/KaizentechInterView/CodeGenerator/obj/Debug/net7.0/refint/CodeGenerator.dll
+/Users/zekikaya/repos/kaizen_interview/KaizentechInterView/CodeGenerator/obj/Debug/net7.0/CodeGenerator.pdb
+/Users/zekikaya/repos/kaizen_interview/KaizentechInterView/CodeGenerator/obj/Debug/net7.0/CodeGenerator.genruntimeconfig.cache
+/Users/zekikaya/repos/kaizen_interview/KaizentechInterView/CodeGenerator/obj/Debug/net7.0/ref/CodeGenerator.dll
